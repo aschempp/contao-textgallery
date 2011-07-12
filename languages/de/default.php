@@ -31,5 +31,5 @@
 /**
  * Content elements
  */
-$GLOBALS['TL_LANG']['CTE']['textgallery'] = 'Text mit Galerie';
+$GLOBALS['TL_LANG']['CTE']['textgallery'] = array('Text mit Galerie');
 

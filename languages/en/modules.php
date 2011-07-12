@@ -29,7 +29,7 @@
 
 
 /**
- * Content elements
+ * Extension folder
  */
-$GLOBALS['TL_LANG']['CTE']['textgallery'] = array('Text with Gallery');
+$GLOBALS['TL_LANG']['MOD']['textgallery'] = array('Content element "Text with Gallery"');
 
